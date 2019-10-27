@@ -1,7 +1,7 @@
 package com.liuyu7177.sgusercenter.repository;
 
 
-import com.liuyu7177.sgusercenter.pojo.UserInfo;
+import com.liuyu7177.sgdata.pojo.UserInfo;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
