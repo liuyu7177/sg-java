@@ -1,0 +1,5 @@
+apollo=8070 8080 8090
+
+sg-pc-web=8100
+sg-eureka-server=8200
+sg-user-center=8300

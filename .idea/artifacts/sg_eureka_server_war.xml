@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sg-eureka-server:war">
+    <output-path>$PROJECT_DIR$/sg-eureka-server/target</output-path>
+    <root id="archive" name="sg-eureka-server-1.0.realese.war">
+      <element id="artifact" artifact-name="sg-eureka-server:war exploded" />
+    </root>
+  </artifact>
+</component>
