@@ -1,6 +1,7 @@
 package com.liuyu7177.config;
 
 import lombok.Data;
+import org.springframework.stereotype.Component;
 
 /**
  * Created by libiyan on 2019/10/26.
@@ -8,6 +9,7 @@ import lombok.Data;
  * @author liuyu
  */
 @Data
+@Component
 public class JsonResult<T> {
 
     public JsonResult() {

@@ -1,77 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83ec485d-3f93-4ab1-8db0-a480a1867033" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sg-data/src/main/java/com/liuyu7177/SgApplication.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-admin/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-admin/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-admin/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-common/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-common/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-common/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-consumer/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-consumer/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-eureka-server/target/classes/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-eureka-server/target/classes/bootstrap.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-eureka-server/target/classes/com/liuyu7177/sgeurekaserver/SgEurekaServerApplication$WebSecurityConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-eureka-server/target/classes/com/liuyu7177/sgeurekaserver/SgEurekaServerApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-eureka-server/target/test-classes/com/liuyu7177/sgeurekaserver/SgEurekaServerApplicationTests.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-goods/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-goods/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-goods/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-manager-web/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-manager-web/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-manager-web/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/SgPcWebApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/config/ApolloDBConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/config/AppConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/config/SgPcWeb.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/config/client/UserCenterClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/controller/ApolloConfigController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/controller/ConfigTestController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/controller/JsonResultController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/controller/UserCenterController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-pc-web/src/test/java/com/liuyu7177/sgpcweb/SgPcWebApplicationTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-provider/target/classes/com/liuyu7177/sgprovider/SgProviderApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-provider/target/test-classes/com/liuyu7177/sgprovider/SgProviderApplicationTests.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-sleuth/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-sleuth/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-sleuth/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/sgusercenter/exception/GlobalExceptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-zuul/.mvn/wrapper/MavenWrapperDownloader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-zuul/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sg-zuul/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+    <list default="true" id="83ec485d-3f93-4ab1-8db0-a480a1867033" name="Default" comment="123">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sg-user-center/pom.xml" afterPath="$PROJECT_DIR$/sg-user-center/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-admin/src/main/java/com/liuyu7177/sgadmin/SgAdminApplication.java" afterPath="$PROJECT_DIR$/sg-admin/src/main/java/com/liuyu7177/SgAdminApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-admin/src/test/java/com/liuyu7177/sgadmin/SgAdminApplicationTests.java" afterPath="$PROJECT_DIR$/sg-admin/src/test/java/com/liuyu7177/SgAdminApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/sgcommon/SgCommonApplication.java" afterPath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/SgCommonApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/sgcommon/config/JsonResult.java" afterPath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/config/JsonResult.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/sgcommon/controller/AuthorizationController.java" afterPath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/controller/AuthorizationController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/sgcommon/controller/BaseController.java" afterPath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/controller/BaseController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-common/src/test/java/com/liuyu7177/sgcommon/SgCommonApplicationTests.java" afterPath="$PROJECT_DIR$/sg-common/src/test/java/com/liuyu7177/SgCommonApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-consumer/src/main/java/com/liuyu7177/sgconsumer/SgConsumerApplication.java" afterPath="$PROJECT_DIR$/sg-consumer/src/main/java/com/liuyu7177/SgConsumerApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-consumer/src/test/java/com/liuyu7177/sgconsumer/SgConsumerApplicationTests.java" afterPath="$PROJECT_DIR$/sg-consumer/src/test/java/com/liuyu7177/SgConsumerApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-data/src/main/java/com/liuyu7177/sgdata/pojo/UserInfo.java" afterPath="$PROJECT_DIR$/sg-data/src/main/java/com/liuyu7177/pojo/UserInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-data/src/test/java/com/liuyu7177/sgdata/SgDataApplicationTests.java" afterPath="$PROJECT_DIR$/sg-data/src/test/java/com/liuyu7177/SgDataApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-eureka-server/src/main/java/com/liuyu7177/sgeurekaserver/SgEurekaServerApplication.java" afterPath="$PROJECT_DIR$/sg-eureka-server/src/main/java/com/liuyu7177/SgEurekaServerApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-eureka-server/src/test/java/com/liuyu7177/sgeurekaserver/SgEurekaServerApplicationTests.java" afterPath="$PROJECT_DIR$/sg-eureka-server/src/test/java/com/liuyu7177/SgEurekaServerApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-goods/src/main/java/com/liuyu7177/sggoods/SgGoodsApplication.java" afterPath="$PROJECT_DIR$/sg-goods/src/main/java/com/liuyu7177/SgGoodsApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-goods/src/test/java/com/liuyu7177/sggoods/SgGoodsApplicationTests.java" afterPath="$PROJECT_DIR$/sg-goods/src/test/java/com/liuyu7177/SgGoodsApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-manager-web/src/main/java/com/liuyu7177/sgmanagerweb/SgManagerWebApplication.java" afterPath="$PROJECT_DIR$/sg-manager-web/src/main/java/com/liuyu7177/SgManagerWebApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-manager-web/src/test/java/com/liuyu7177/sgmanagerweb/SgManagerWebApplicationTests.java" afterPath="$PROJECT_DIR$/sg-manager-web/src/test/java/com/liuyu7177/SgManagerWebApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/exception/GlobalExceptionHandler.java" afterPath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/exception/GlobalExceptionHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-provider/src/main/java/com/liuyu7177/sgprovider/SgProviderApplication.java" afterPath="$PROJECT_DIR$/sg-provider/src/main/java/com/liuyu7177/SgProviderApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-provider/src/test/java/com/liuyu7177/sgprovider/SgProviderApplicationTests.java" afterPath="$PROJECT_DIR$/sg-provider/src/test/java/com/liuyu7177/SgProviderApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-sleuth/src/main/java/com/liuyu7177/sgsleuth/SgSleuthApplication.java" afterPath="$PROJECT_DIR$/sg-sleuth/src/main/java/com/liuyu7177/SgSleuthApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-sleuth/src/test/java/com/liuyu7177/sgsleuth/SgSleuthApplicationTests.java" afterPath="$PROJECT_DIR$/sg-sleuth/src/test/java/com/liuyu7177/SgSleuthApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/sgusercenter/SgUserCenterApplication.java" afterPath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/SgUserCenterApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/sgusercenter/controller/UserInfoController.java" afterPath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/controller/UserInfoController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/sgusercenter/repository/UserInfoRepository.java" afterPath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/repository/UserInfoRepository.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-user-center/src/test/java/com/liuyu7177/sgusercenter/SgUserCenterApplicationTests.java" afterPath="$PROJECT_DIR$/sg-user-center/src/test/java/com/liuyu7177/SgUserCenterApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-zuul/src/main/java/com/liuyu7177/sgzuul/SgZuulApplication.java" afterPath="$PROJECT_DIR$/sg-zuul/src/main/java/com/liuyu7177/SgZuulApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-zuul/src/test/java/com/liuyu7177/sgzuul/SgZuulApplicationTests.java" afterPath="$PROJECT_DIR$/sg-zuul/src/test/java/com/liuyu7177/SgZuulApplicationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/config/JsonResult.java" afterPath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/config/JsonResult.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/sgusercenter/exception/GlobalExceptionHandler.java" afterPath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/exception/GlobalExceptionHandler.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,68 +45,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SgPcWebApplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/SgPcWebApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApolloDBConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/config/ApolloDBConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SgAdminApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sg-admin/src/main/java/com/liuyu7177/SgAdminApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sg-user-center/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-398">
-              <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="126" column="65" lean-forward="false" selection-start-line="126" selection-start-column="65" selection-end-line="126" selection-end-column="65" />
-              <folding>
-                <marker date="1572221416674" expanded="true" signature="5146:5370" ph="..." />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sg-pc-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
+            <state relative-caret-position="418">
               <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
               <folding />
             </state>
@@ -193,21 +68,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SgCommonApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/SgCommonApplication.java">
+      <file leaf-file-name="ApolloConfigController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/ApolloConfigController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="21" />
+            <state relative-caret-position="242">
+              <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EntityScan.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/domain/EntityScan.class">
+      <file leaf-file-name="JsonResultController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/JsonResultController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="242">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -219,6 +94,60 @@
             <state relative-caret-position="198">
               <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sg-pc-web/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthorizationController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/controller/AuthorizationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserInfo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sg-data/src/main/java/com/liuyu7177/pojo/UserInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/controller/BaseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/config/JsonResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -296,6 +225,7 @@
         <option value="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/sgpcweb/SgPcWebApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/SgPcWebApplication.java" />
+        <option value="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/config/JsonResult.java" />
       </list>
     </option>
   </component>
@@ -325,46 +255,8 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="sg-user-center" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="sg-user-center" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
           <option name="myItemId" value="sg-pc-web" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="sg-pc-web" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -433,6 +325,394 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sg-user-center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuyu7177" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuyu7177" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuyu7177" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuyu7177" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pojo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuyu7177" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuyu7177" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sg-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuyu7177" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -877,21 +1157,21 @@
     </configuration>
     <configuration default="false" name="SgConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgconsumer.SgConsumerApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgConsumerApplication" />
       <module name="sg-consumer" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgeurekaserver.SgEurekaServerApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgEurekaServerApplication" />
       <module name="sg-eureka-server" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgprovider.SgProviderApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgProviderApplication" />
       <module name="sg-provider" />
       <envs />
       <method />
@@ -905,56 +1185,56 @@
     </configuration>
     <configuration default="false" name="SgSleuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgsleuth.SgSleuthApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgSleuthApplication" />
       <module name="sg-sleuth" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgManagerWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgmanagerweb.SgManagerWebApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgManagerWebApplication" />
       <module name="sg-manager-web" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgcommon.SgCommonApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgCommonApplication" />
       <module name="sg-common" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgPcWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgpcweb.SgPcWebApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgPcWebApplication" />
       <module name="sg-pc-web" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgUserCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgusercenter.SgUserCenterApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgUserCenterApplication" />
       <module name="sg-user-center" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgzuul.SgZuulApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgZuulApplication" />
       <module name="sg-zuul" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgadmin.SgAdminApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgAdminApplication" />
       <module name="sg-admin" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="SgGoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sggoods.SgGoodsApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgGoodsApplication" />
       <module name="sg-goods" />
       <envs />
       <method />
@@ -985,7 +1265,7 @@
     </configuration>
     <configuration default="false" name="SgApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.sgdata.SgApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuyu7177.SgApplication" />
       <module name="sg-data" />
       <envs />
       <method />
@@ -1031,7 +1311,7 @@
       <workItem from="1572143629698" duration="20484000" />
       <workItem from="1572167216536" duration="19729000" />
       <workItem from="1572190398681" duration="719000" />
-      <workItem from="1572217773966" duration="3553000" />
+      <workItem from="1572217773966" duration="4132000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1572190783562</created>
@@ -1040,11 +1320,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572190783562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="123">
+      <created>1572221773788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572221773788</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85490000" />
+    <option name="totallyTimeSpent" value="86069000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1136,20 +1423,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sg-eureka-server/sg-eureka-server.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/test/java/com/liuyu7177/SgPcWebApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sg-eureka-server/src/test/java/com/liuyu7177/SgEurekaServerApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1161,13 +1434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sg-pc-web/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1262,28 +1528,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/ApolloConfigController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="58" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sg-user-center/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/JsonResultController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1401,16 +1649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sg-data/src/main/java/com/liuyu7177/pojo/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/repository/UserInfoRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1443,52 +1681,6 @@
           <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/ConfigTestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/controller/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/UserCenterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sg-user-center/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-398">
-          <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sg-pc-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -1525,6 +1717,104 @@
         <state relative-caret-position="132">
           <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-user-center/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-pc-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/ConfigTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/ApolloConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/JsonResultController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/UserCenterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-pc-web/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/controller/AuthorizationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/config/JsonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sg-data/src/main/java/com/liuyu7177/pojo/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
