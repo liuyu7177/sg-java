@@ -2,8 +2,9 @@ package com.liuyu7177.controller;
 
 import com.ctrip.framework.apollo.Config;
 import com.ctrip.framework.apollo.ConfigService;
+import com.liuyu7177.common.controller.BaseController;
 import com.liuyu7177.config.ApolloDBConfig;
-import com.liuyu7177.config.JsonResult;
+import com.liuyu7177.common.config.JsonResult;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

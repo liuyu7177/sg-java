@@ -1,4 +1,4 @@
-package com.liuyu7177.config;
+package com.liuyu7177.common.config;
 
 import lombok.Data;
 import org.springframework.stereotype.Component;

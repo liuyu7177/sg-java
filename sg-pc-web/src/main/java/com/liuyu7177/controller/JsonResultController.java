@@ -1,6 +1,7 @@
 package com.liuyu7177.controller;
 
-import com.liuyu7177.config.JsonResult;
+import com.liuyu7177.common.config.JsonResult;
+import com.liuyu7177.common.controller.BaseController;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

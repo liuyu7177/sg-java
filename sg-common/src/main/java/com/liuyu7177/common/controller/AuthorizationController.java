@@ -1,4 +1,4 @@
-package com.liuyu7177.controller;
+package com.liuyu7177.common.controller;
 
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,6 @@
-package com.liuyu7177.controller;
+package com.liuyu7177.common.controller;
 
-import com.liuyu7177.config.JsonResult;
+import com.liuyu7177.common.config.JsonResult;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.servlet.ModelAndView;

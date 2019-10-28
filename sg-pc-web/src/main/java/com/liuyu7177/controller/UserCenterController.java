@@ -1,7 +1,8 @@
 package com.liuyu7177.controller;
 
-import com.liuyu7177.config.JsonResult;
-import com.liuyu7177.pojo.UserInfo;
+import com.liuyu7177.common.config.JsonResult;
+import com.liuyu7177.common.controller.BaseController;
+import com.liuyu7177.data.pojo.UserInfo;
 import com.liuyu7177.config.client.UserCenterClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.liuyu7177.pojo;
+package com.liuyu7177.data.pojo;
 
 import lombok.Data;
 
