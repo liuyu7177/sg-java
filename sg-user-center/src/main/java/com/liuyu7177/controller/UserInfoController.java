@@ -18,6 +18,7 @@ import java.util.Date;
  */
 @RestController
 public class UserInfoController extends BaseController {
+
     @Autowired
     private UserInfoRepository userInfoRepository;
 
