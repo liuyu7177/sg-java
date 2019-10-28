@@ -1,11 +1,11 @@
 package com.liuyu7177.config.client;
 
-import com.liuyu7177.config.JsonResult;
-import com.liuyu7177.pojo.UserInfo;
+import com.liuyu7177.common.config.JsonResult;
+import com.liuyu7177.data.pojo.UserInfo;
 import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-
 
 import java.util.ArrayList;
 
@@ -13,8 +13,9 @@ import java.util.ArrayList;
  * Created by libiyan on 2019/10/27.
  * @author liuyu
  */
-//@FeignClient(value = "${sg.user.service.name}")
-@FeignClient(value = "sg-user-center")
+@FeignClient(value = "${sg.user.service.name}")
+//@FeignClient(value = "sg-user-center")
+@Component
 public interface UserCenterClient {
 
     @GetMapping(path = "/add")

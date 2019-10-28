@@ -1,6 +1,6 @@
 package com.liuyu7177.exception;
 
-import com.liuyu7177.config.JsonResult;
+import com.liuyu7177.common.config.JsonResult;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
