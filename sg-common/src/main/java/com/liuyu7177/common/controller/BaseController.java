@@ -1,6 +1,7 @@
 package com.liuyu7177.common.controller;
 
 import com.liuyu7177.common.config.JsonResult;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.servlet.ModelAndView;
@@ -19,6 +20,9 @@ public class BaseController {
     public BaseController() {
 
     }
+
+    @Value("${COMMON_ERROR_MESSAGE:服务开小差了，请稍后重试...}")
+    public String COMMON_ERROR_MESSAGE;
 
     /**
      * 重定向到指定url
@@ -104,37 +108,45 @@ public class BaseController {
 
     //region ApiSucceed 接口操作成功
     public JsonResult<String> ApiSucceed() {
-        return new JsonResult<>(true,200,"操作成功",null);
+        return new JsonResult<>(true, 200, "操作成功", null);
+    }
+
+    public <T> JsonResult<T> ApiSucceed(T data) {
+        return new JsonResult<T>(true, 200, "操作成功", data);
     }
 
     public JsonResult<String> ApiSucceed(String msg) {
-        return new JsonResult<>(true,200,msg,null);
+        return new JsonResult<>(true, 200, msg, null);
     }
 
     public JsonResult<String> ApiSucceed(String msg, String data) {
-        return new JsonResult<>(true,200,msg,data);
+        return new JsonResult<>(true, 200, msg, data);
     }
 
     public <T> JsonResult<T> ApiSucceed(String msg, T data) {
-        return new JsonResult<>(true,200,msg,data);
+        return new JsonResult<>(true, 200, msg, data);
     }
     //endregion
 
     //region 接口操作失败
     public JsonResult<String> ApiError() {
-        return new JsonResult<>(false,200,"操作失败",null);
+        return new JsonResult<>(false, 200, "操作失败", null);
     }
 
     public JsonResult<String> ApiError(String msg) {
-        return new JsonResult<>(false,200,msg,null);
+        return new JsonResult<>(false, 200, msg, null);
+    }
+
+    public <T> JsonResult<T> ApiError(T data) {
+        return new JsonResult<T>(false, 200, "操作成功", data);
     }
 
     public JsonResult<String> ApiError(String msg, String data) {
-        return new JsonResult<>(false,200,msg,data);
+        return new JsonResult<>(false, 200, msg, data);
     }
 
     public <T> JsonResult<T> ApiError(String msg, T data) {
-        return new JsonResult<>(false,200,msg,data);
+        return new JsonResult<>(false, 200, msg, data);
     }
     //endregion
 }

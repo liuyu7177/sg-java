@@ -34,7 +34,7 @@ public class UserInfoController extends BaseController {
 
     //测试获取全部的数据
     @GetMapping(path = "/all")
-    public Iterable<UserInfo> getAllUsers() {
-        return userInfoRepository.findAll();
+    public JsonResult<Iterable<UserInfo>> getAllUsers() {
+        return ApiSucceed(userInfoRepository.findAll());
     }
 }
