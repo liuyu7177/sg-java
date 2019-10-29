@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83ec485d-3f93-4ab1-8db0-a480a1867033" name="Default" comment="123">
-      <change afterPath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/config/client/fallaback/UserCenterClientFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/HystrixController.java" afterDir="false" />
+    <list default="true" id="83ec485d-3f93-4ab1-8db0-a480a1867033" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/common/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sg-common/src/main/java/com/liuyu7177/common/controller/BaseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-pc-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sg-pc-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/SgPcWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/SgPcWebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/config/client/UserCenterClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/config/client/UserCenterClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/UserCenterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/controller/UserCenterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-pc-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sg-pc-web/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-user-center/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sg-user-center/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/SgUserCenterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/SgUserCenterApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/controller/UserInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sg-user-center/src/main/java/com/liuyu7177/controller/UserInfoController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,12 +56,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SgPcWebApplication.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SgPcWebApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/SgPcWebApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="309">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-414" />
           </provider>
         </entry>
       </file>
@@ -146,15 +142,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
               <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Autowired.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -305,233 +292,7 @@
             <path>
               <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="fallaback" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-pc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyu7177" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sg-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sg-java" type="462c0819:PsiDirectoryNode" />
-              <item name="sg-user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1063,7 +824,7 @@
       <workItem from="1572217773966" duration="4132000" />
       <workItem from="1572241080879" duration="2852000" />
       <workItem from="1572316688721" duration="3481000" />
-      <workItem from="1572339433159" duration="8099000" />
+      <workItem from="1572339433159" duration="8868000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1572190783562</created>
@@ -1100,11 +861,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572260293961</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="123">
+      <created>1572348925733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572348925733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112711000" />
+    <option name="totallyTimeSpent" value="113480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1117,7 +885,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
@@ -1132,7 +899,7 @@
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.2552719" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" x="719" y="297" width="482" height="445" id="Project" order="0" sideWeight="0.49611542" visible="true" weight="0.31672025" />
+      <window_info active="true" content_ui="combo" x="719" y="297" width="482" height="445" id="Project" order="0" sideWeight="0.49611542" visible="true" weight="0.31672025" />
       <window_info anchor="bottom" id="Problems" order="14" weight="0.32963374" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="8" side_tool="true" />
@@ -1190,7 +957,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sg-data/src/main/java/com/liuyu7177/sgdata/SgDataApplication.java" />
     <entry file="file://$PROJECT_DIR$/sg-data/src/main/java/com/liuyu7177/sgdata/pojo/pojo/UserInfo.java" />
     <entry file="file://$PROJECT_DIR$/sg-sleuth/src/main/java/com/liuyu7177/SgSleuthApplication.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1574,9 +1340,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sg-pc-web/src/main/java/com/liuyu7177/SgPcWebApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="309">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414" />
       </provider>
     </entry>
   </component>
