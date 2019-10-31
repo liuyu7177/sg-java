@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/sg-data/pom.xml" />
         <option value="$PROJECT_DIR$/sg-pc-web/pom.xml" />
         <option value="$PROJECT_DIR$/sg-goods/pom.xml" />
+        <option value="$PROJECT_DIR$/sg-hystrix-dashboard-turbine/pom.xml" />
       </list>
     </option>
   </component>

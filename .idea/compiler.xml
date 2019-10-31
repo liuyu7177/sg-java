@@ -13,6 +13,7 @@
         <module name="sg-data" />
         <module name="sg-eureka-server" />
         <module name="sg-goods" />
+        <module name="sg-hystrix-dashboard-turbine" />
         <module name="sg-manager-web" />
         <module name="sg-pc-web" />
         <module name="sg-provider" />
@@ -23,19 +24,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="parent" target="1.8" />
-      <module name="sg-admin" target="1.8" />
-      <module name="sg-common" target="1.8" />
-      <module name="sg-consumer" target="1.8" />
-      <module name="sg-data" target="1.8" />
-      <module name="sg-eureka-server" target="1.8" />
-      <module name="sg-goods" target="1.8" />
-      <module name="sg-java" target="1.8" />
-      <module name="sg-manager-web" target="1.8" />
-      <module name="sg-pc-web" target="1.8" />
-      <module name="sg-provider" target="1.8" />
-      <module name="sg-sleuth" target="1.8" />
-      <module name="sg-user-center" target="1.8" />
-      <module name="sg-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

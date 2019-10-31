@@ -8,6 +8,7 @@
     <file url="file://$PROJECT_DIR$/sg-data" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sg-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sg-goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sg-hystrix-dashboard-turbine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sg-manager-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sg-pc-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sg-provider" charset="UTF-8" />
