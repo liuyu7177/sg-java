@@ -4,3 +4,4 @@ sg-pc-web=8100
 sg-eureka-server=8200
 sg-user-center=8300
 sg-hystrix-dashboard-turbine=9100
+sg-zuul=9200
