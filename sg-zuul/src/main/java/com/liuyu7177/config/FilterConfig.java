@@ -2,6 +2,7 @@ package com.liuyu7177.config;
 
 import com.liuyu7177.filter.ErrorFilter;
 import com.liuyu7177.filter.IpFilter;
+import com.liuyu7177.filter.RequestInfoFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -20,5 +21,9 @@ public class FilterConfig {
     @Bean
     public ErrorFilter errorFilter() {
         return new ErrorFilter();
+    }
+    @Bean
+    public RequestInfoFilter requestInfoFilter() {
+        return new RequestInfoFilter();
     }
 }
