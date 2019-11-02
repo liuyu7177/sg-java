@@ -17,7 +17,6 @@
         <module name="sg-manager-web" />
         <module name="sg-pc-web" />
         <module name="sg-provider" />
-        <module name="sg-sleuth" />
         <module name="sg-user-center" />
         <module name="sg-zuul" />
       </profile>
@@ -37,6 +36,7 @@
       <module name="sg-provider" target="1.8" />
       <module name="sg-sleuth" target="1.8" />
       <module name="sg-user-center" target="1.8" />
+      <module name="sg-zipkin" target="1.8" />
       <module name="sg-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -15,8 +15,10 @@
         <module>sg-consumer</module>
         <module>sg-data</module>
         <module>sg-manager-web</module>
+        <module>sg-eureka-server</module>
+        <module>sg-goods</module>
+        <module>sg-hystrix-dashboard-turbine</module>
         <module>sg-provider</module>
-        <module>sg-sleuth</module>
         <module>sg-user-center</module>
         <module>sg-zuul</module>
     </modules>
@@ -135,9 +137,9 @@
                 </executions>
             </plugin>
             <!--<plugin>-->
-                <!--<groupId>org.springframework.boot</groupId>-->
-                <!--<artifactId>spring-boot-maven-plugin</artifactId>-->
-                <!--<version>1.5.21.RELEASE</version>-->
+            <!--<groupId>org.springframework.boot</groupId>-->
+            <!--<artifactId>spring-boot-maven-plugin</artifactId>-->
+            <!--<version>1.5.21.RELEASE</version>-->
             <!--</plugin>-->
         </plugins>
     </build>

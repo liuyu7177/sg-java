@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/sg-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sg-sleuth" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sg-user-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sg-zipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sg-zuul" charset="UTF-8" />
   </component>
 </project>

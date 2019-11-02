@@ -13,7 +13,6 @@
       <module fileurl="file://$PROJECT_DIR$/sg-manager-web/sg-manager-web.iml" filepath="$PROJECT_DIR$/sg-manager-web/sg-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/sg-pc-web/sg-pc-web.iml" filepath="$PROJECT_DIR$/sg-pc-web/sg-pc-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/sg-provider/sg-provider.iml" filepath="$PROJECT_DIR$/sg-provider/sg-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sg-sleuth/sg-sleuth.iml" filepath="$PROJECT_DIR$/sg-sleuth/sg-sleuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/sg-user-center/sg-user-center.iml" filepath="$PROJECT_DIR$/sg-user-center/sg-user-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/sg-zuul/sg-zuul.iml" filepath="$PROJECT_DIR$/sg-zuul/sg-zuul.iml" />
     </modules>
