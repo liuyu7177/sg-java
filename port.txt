@@ -7,3 +7,4 @@ sg-hystrix-dashboard-turbine=9100
 sg-zuul=9200
 zipkin=9411
 manager-web=9300
+sg-admin=9400
