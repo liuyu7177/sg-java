@@ -24,21 +24,4 @@ public class SgPcWebApplication {
     public static void main(String[] args) {
         SpringApplication.run(SgPcWebApplication.class, args);
     }
-
-    @Bean
-    public ServletRegistrationBean getServlet(){
-
-        HystrixMetricsStreamServlet streamServlet = new HystrixMetricsStreamServlet();
-
-        ServletRegistrationBean registrationBean = new ServletRegistrationBean(streamServlet);
-
-        registrationBean.setLoadOnStartup(1);
-
-        registrationBean.addUrlMappings("/actuator/hystrix.stream");
-
-        registrationBean.setName("HystrixMetricsStreamServlet");
-
-
-        return registrationBean;
-    }
 }
