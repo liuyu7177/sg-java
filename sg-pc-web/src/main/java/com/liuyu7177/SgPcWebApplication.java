@@ -10,6 +10,7 @@ import org.springframework.cloud.netflix.hystrix.EnableHystrix;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
+import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
  * @author liuyu
@@ -23,22 +24,5 @@ public class SgPcWebApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SgPcWebApplication.class, args);
-    }
-
-    @Bean
-    public ServletRegistrationBean getServlet(){
-
-        HystrixMetricsStreamServlet streamServlet = new HystrixMetricsStreamServlet();
-
-        ServletRegistrationBean registrationBean = new ServletRegistrationBean(streamServlet);
-
-        registrationBean.setLoadOnStartup(1);
-
-        registrationBean.addUrlMappings("/actuator/hystrix.stream");
-
-        registrationBean.setName("HystrixMetricsStreamServlet");
-
-
-        return registrationBean;
     }
 }
